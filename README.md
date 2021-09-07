@@ -5,6 +5,7 @@
 * 官方仓库地址 : <https://github.com/gocolly/colly>
 * 官方网站 : <http://go-colly.org/>
 * 官方文档 : <http://go-colly.org/docs/>
+* go仓库 : <https://pkg.go.dev/github.com/gocolly/colly/v2>
 
 
 ---

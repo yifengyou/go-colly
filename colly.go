@@ -56,7 +56,7 @@ type Collector struct {
 	// UserAgent is the User-Agent string used by HTTP requests
 	UserAgent string
 	// MaxDepth limits the recursion depth of visited URLs.
-	// Set it to 0 for infinite recursion (default).
+	// Set it to 0 for infinite recursion (default). 0为无限制
 	MaxDepth int
 	// AllowedDomains is a domain whitelist.
 	// Leave it blank to allow any domains to be visited
